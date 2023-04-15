@@ -10,6 +10,7 @@ const int NSIZE = 10;
 
 int main()
 {
+    cout << "20203496 이장근"
     cout << "Sorting program" << endl;
     int sampleArray[NSIZE], numberUsed;
     fillArray(sampleArray, NSIZE, numberUsed);
